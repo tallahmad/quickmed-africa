@@ -1,7 +1,7 @@
 # quickmed-africa
 
-QuickMed Africa ⚕️
-L'IA souveraine pour une médecine de précision au dernier kilomètre. 
+QuickMed Africa 
+⚕️L'IA souveraine pour une médecine de précision au dernier kilomètre. 
 
 📌 À propos
 
