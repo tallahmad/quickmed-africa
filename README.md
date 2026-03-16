@@ -2,7 +2,10 @@
 
 QuickMed Africa ⚕️
 L'IA souveraine pour une médecine de précision au dernier kilomètre. 
-📌 À proposQuickMed est un assistant clinique intelligent conçu pour les soignants en Afrique, particulièrement dans les zones rurales où l'accès aux protocoles médicaux est difficile. Développé lors du Rab'Hacks 2026 à Dakar, ce projet vise à réduire les erreurs médicales en fournissant des réponses certifiées basées exclusivement sur les protocoles officiels du MSAS (Ministère de la Santé et de l'Action Sociale).
+
+📌 À propos
+
+QuickMed est un assistant clinique intelligent conçu pour les soignants en Afrique, particulièrement dans les zones rurales où l'accès aux protocoles médicaux est difficile. Développé lors du Rab'Hacks 2026 à Dakar, ce projet vise à réduire les erreurs médicales en fournissant des réponses certifiées basées exclusivement sur les protocoles officiels du MSAS (Ministère de la Santé et de l'Action Sociale).
 
 ⚠️ Le ProblèmeProtocoles inaccessibles : Les manuels papier sont souvent volumineux ou absents en zone rurale.Risque d'erreur : Le stress et l'isolement augmentent les erreurs de diagnostic et de dosage.Connectivité faible : Les outils classiques sont trop lourds pour les réseaux 2G/faible débit au Sénégal.✨ La SolutionUne application PWA ultra-rapide et légère qui fonctionne en 5 secondes:IA Certifiée : Utilisation de Gemini + Make pour garantir zéro hallucination.Base Souveraine : Données structurées sur Airtable / NocoDB validées par des médecins.Accessibilité : Optimisé pour les réseaux lents (2G).
 
